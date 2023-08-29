@@ -1,0 +1,13 @@
+#Irish
+[[research/articles/Another_Canada_is_Possible]]
+[[research/articles/Canadian_identity_and_the_War_of_1812]]
+[[research/articles/Cree_Discourse_and_Narrative_Ways_of_Knowing]]
+[[research/articles/His_Majesty's_Indian_Allies]]
+[[research/articles/How_Should_Churches_Respond_to_Aboriginal_Voices]]
+[[research/articles/Learning_and_the_Creation_of_Stock-Market_Institutions]]
+[[research/articles/Native_Peoples,_the_British_Crown_and_the_War_of_1812]]
+[[research/articles/Rethinking_Canada's_Colonial_Legacy]]
+[[research/articles/Rethinking_Canada’s_Colonial_Legacy]]
+[[research/articles/The_American_Civil_War_in_the_Making_of_Canadian_Confederation]]
+[[research/articles/The_British_Colonial_Model_in_Ireland_and_Canada]]
+[[research/articles/The_Hudson's_Bay_Company_and_Its_Critics_in_the_Eighteenth_Century]]

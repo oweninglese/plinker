@@ -1,0 +1,9 @@
+#taxes
+[[research/articles/Aboriginal_Peoples_and_Comprehensive_Land_Claims_Negotiations_in_Canada]]
+[[research/articles/Anishinaabe_Articulations_of_Nationhood_in_Treaty_Making_with_the_United_States_and_Canada]]
+[[research/articles/Arctic_Security_for_a_Big_Small_Country]]
+[[research/articles/INDIGENOUS_PEOPLES_OF_CANADA_AND_THE_UNITED_STATES_OF_AMERICA]]
+[[research/articles/Indigenous_issues_slowly_disappear_from_election_2019]]
+[[research/articles/Migration_and_the_Unmaking_of_America]]
+[[research/articles/Settlement_of_the_Claims_in_Washington_of_the_Hudson's_Bay_Company_and_the_Puget's_Sound_Agricultural_Company]]
+[[research/articles/The-Big-Con_EN]]

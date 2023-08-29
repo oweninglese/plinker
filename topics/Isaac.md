@@ -1,0 +1,12 @@
+#Isaac
+[[research/articles/A_Treaty_Right_to_Education]]
+[[research/articles/Aboriginal_Peoples_and_Comprehensive_Land_Claims_Negotiations_in_Canada]]
+[[research/articles/Canadian_identity_and_the_War_of_1812]]
+[[research/articles/Developing_a_referrals_management_tool_with_First_Nations_in_northern_Canada]]
+[[research/articles/His_Majesty's_Indian_Allies]]
+[[research/articles/INDIGENOUS_PEOPLES_OF_CANADA_AND_THE_UNITED_STATES_OF_AMERICA]]
+[[research/articles/Learning_to_Live_in_Steven_Weinberg&rsquo;s_Pointless_Universe]]
+[[research/articles/Native,_Mixed-Blood,_and_White_Wives_of_Laborers_at_Fort_Nisqually]]
+[[research/articles/Native_Peoples,_the_British_Crown_and_the_War_of_1812]]
+[[research/articles/THE_IMPACT_OF_ECONOMIC_DEVELOPMENT_IN_JAMES_BAY,_CANADA]]
+[[research/articles/TOWARDS_SHARED_OWNERSHIP]]

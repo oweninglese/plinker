@@ -1,0 +1,12 @@
+#Lower
+[[research/articles/A_Historical_Institutionalist_Understanding_of_Participatory_Governance_and_Aboriginal_People]]
+[[research/articles/Canadian_identity_and_the_War_of_1812]]
+[[research/articles/Deconstructing_British_and_Canadian_Claims_to_Ownership_of_the_Historic_North-West]]
+[[research/articles/Evidence_from_Cree_Dialects]]
+[[research/articles/INDIGENOUS_PEOPLES_OF_CANADA_AND_THE_UNITED_STATES_OF_AMERICA]]
+[[research/articles/Indian_Consumers_and_the_Hudson's_Bay_Company]]
+[[research/articles/Interpretive_Sovereignty]]
+[[research/articles/Migration_and_the_Unmaking_of_America]]
+[[research/articles/Multiculturalism_and_the_Aboriginal_Peoples_in_Canada]]
+[[research/articles/The-Big-Con_EN]]
+[[research/articles/The_American_Civil_War_in_the_Making_of_Canadian_Confederation]]

@@ -1,0 +1,12 @@
+#Upper
+[[research/articles/Agency_Problems_in_Early_Chartered_Companies]]
+[[research/articles/Canadian_identity_and_the_War_of_1812]]
+[[research/articles/Deconstructing_British_and_Canadian_Claims_to_Ownership_of_the_Historic_North-West]]
+[[research/articles/His_Majesty's_Indian_Allies]]
+[[research/articles/INDIGENOUS_PEOPLES_OF_CANADA_AND_THE_UNITED_STATES_OF_AMERICA]]
+[[research/articles/Indian_Consumers_and_the_Hudson's_Bay_Company]]
+[[research/articles/Migration_and_the_Unmaking_of_America]]
+[[research/articles/Multiculturalism_and_the_Aboriginal_Peoples_in_Canada]]
+[[research/articles/Native_Peoples,_the_British_Crown_and_the_War_of_1812]]
+[[research/articles/SELF-EMANCIPATED_PEOPLE_IN_CANADA_AND_THE_ANTEBELLUM_POLITICS_OF_DIASPORA_AND_EMPIRE]]
+[[research/articles/The_American_Civil_War_in_the_Making_of_Canadian_Confederation]]

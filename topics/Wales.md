@@ -1,0 +1,9 @@
+#Wales
+[[research/articles/Agency_Problems_in_Early_Chartered_Companies]]
+[[research/articles/Canada,_white_supremacy,_and_the_twinning_of_empires]]
+[[research/articles/Canada_as_framework_nation]]
+[[research/articles/His_Majesty's_Indian_Allies]]
+[[research/articles/Hudson's_Bay_Company_Claims]]
+[[research/articles/Native_Peoples,_the_British_Crown_and_the_War_of_1812]]
+[[research/articles/The_American_Civil_War_in_the_Making_of_Canadian_Confederation]]
+[[research/articles/The_Hudson's_Bay_Company_and_Its_Critics_in_the_Eighteenth_Century]]

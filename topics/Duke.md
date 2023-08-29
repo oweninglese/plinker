@@ -1,0 +1,13 @@
+#Duke
+[[research/articles/An_Anishinaabe_Studies_Syllabus]]
+[[research/articles/Building_on_Conceptual_Interpretations_of_Aboriginal_Literacy_in_Anishinaabe_Research]]
+[[research/articles/Deconstructing_British_and_Canadian_Claims_to_Ownership_of_the_Historic_North-West]]
+[[research/articles/Differentiating_Indigenous_Citizenship]]
+[[research/articles/Environmental_Politics_and_Traditional_Ecological_Knowledge_in_Modern_North_America]]
+[[research/articles/How_the_Supreme_Court_Can_Restrain_the_Executive]]
+[[research/articles/Interpretive_Sovereignty]]
+[[research/articles/Multiculturalism_and_the_Aboriginal_Peoples_in_Canada]]
+[[research/articles/Seeking_Multiplicity_in_Rights,_Identity,_and_Sovereignty_in_Canada]]
+[[research/articles/THE_INTERNATIONAL_INDIGENOUS_PEOPLES’_MOVEMENT]]
+[[research/articles/That_Sole_and_Despotic_Dominion]]
+[[research/articles/The_American_Civil_War_in_the_Making_of_Canadian_Confederation]]

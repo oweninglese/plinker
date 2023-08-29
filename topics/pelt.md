@@ -1,0 +1,10 @@
+#pelt
+[[research/articles/A_Question_of_Leadership_in_Treaty_Negotiations]]
+[[research/articles/Indian_Consumers_and_the_Hudson's_Bay_Company]]
+[[research/articles/Indians,_the_Beaver,_and_the_Bay]]
+[[research/articles/Kaianerekwa__THE_GREAT_LAW_OF_PEACE]]
+[[research/articles/Learning_and_the_Creation_of_Stock-Market_Institutions]]
+[[research/articles/Property_Rights,_Competition,_and_Depletion_in_the_Eighteenth-Century_Canadian_Fur_Trade]]
+[[research/articles/THE_IMPACT_OF_ECONOMIC_DEVELOPMENT_IN_JAMES_BAY,_CANADA]]
+[[research/articles/The_History_of_the_Jay_Treaty,_and_its_Significance_to_Cross-Border_Mobility_and_Security_for_Indigenous_Peoples_in_the_North_American_Northern_Borderlands_and_Beyond]]
+[[research/articles/The_History_of_the_Jay_Treaty]]
